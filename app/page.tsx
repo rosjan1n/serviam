@@ -7,7 +7,7 @@ import { buttonVariants } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <div className="flex flex-col space-y-10 relative min-h-full">
+    <div className="flex flex-col space-y-10">
       <Navigation />
       <div className="flex flex-col max-w-screen-lg mx-auto space-y-20">
         <div className="flex flex-col text-center justify-center items-center">
